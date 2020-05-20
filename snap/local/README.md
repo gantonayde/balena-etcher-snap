@@ -1,0 +1,1 @@
+The snapcraft file in this directory can package Etcher with `confinement: strict`. The problem is that Etcher needs access to `pkexec` or `kdesudo` for writing, which is impossible at the moment without running the snap in a `classic` confinement.

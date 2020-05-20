@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=balenaEtcher
+Exec=balena-etcher-electron
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=balenaEtcher
+Comment=Flash OS images to SD cards and USB drives, safely and easily.
+Categories=Utility;
