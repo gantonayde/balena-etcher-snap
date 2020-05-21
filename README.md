@@ -19,6 +19,7 @@ distributions.
 
 You can download the snap from [here](https://github.com/gantonayde/balena-etcher-electron/releases/download/v1.5.89-beta-snap/balena-etcher-electron_1.5.89_amd64.snap).
 To install, please run:
+
 `sudo snap install balena-etcher-electron_1.5.89_amd64.snap --dangerous --classic`
 
 Etcher needs access to `pkexec` or `kdesudo` in order to write to the media, which means that the snap needs to be sideloaded with `--dangerous` and `--classic`.
