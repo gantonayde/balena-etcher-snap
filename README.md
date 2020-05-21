@@ -22,4 +22,4 @@ To install, please run:
 
 `sudo snap install balena-etcher-electron_1.5.89_amd64.snap --dangerous --classic`
 
-Etcher needs access to `pkexec` or `kdesudo` in order to write to the media, which means that the snap needs to be sideloaded with `--dangerous` and `--classic`.
+Etcher needs access to `pkexec` or `kdesudo` in order to write to the media, which means that the snap needs to be sideloaded with `--dangerous` and `--classic` tags.
